@@ -44,4 +44,5 @@
 * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Generator — генераторы.
 * https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise — Promise.
 * https://www.npmjs.com/package/bluebird — Bluebird, быстрая реализация Promise (плюс дополнительные фичи вроде promisify, который строит API на Promise из API на nodebacks).
+* https://nodejs.org/api/process.html#process_event_unhandledrejection — сигнал о необработанной ошибке в Promise.
 * http://www.ecma-international.org/ecma-262/6.0/ — спецификация ECMAScript 2015.
