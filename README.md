@@ -75,6 +75,7 @@
 На всякий случай: stage 3 — кандидат в спецификацию, stage 2 — черновик, stage 1 — предложение, stage 0 — поиграться.
 
 ## Тестирование
+* https://npmjs.com/package/tape
 * http://chaijs.com/, http://mochajs.org/, https://github.com/jasmine/jasmine — библиотеки для построения тестов.
 * https://github.com/karma-runner/karma — Karma, модульная обёртка для простой настройки тестов на стороне браузера. Само тестирование проводится например через Jasmine или Mocha (в зависимости от настроек).
 * https://github.com/ariya/phantomjs/ — PhantomJS, Scriptable Headless WebKit.
